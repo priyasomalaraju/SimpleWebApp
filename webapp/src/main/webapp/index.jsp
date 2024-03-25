@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Flipkart shopping website</title>
+    <title>Amazon shopping website</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -45,7 +45,7 @@ header{
 #menu li a{
     color: #fff;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 section{
@@ -92,18 +92,18 @@ h1{
             <span style="font-size:64px;margin-right:10px;color:orange">Flipkart shopping website</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
-                <li><a href="#about">About Us</a></li>
+                <li><a href="#about Amazon">About Amazon</a></li>
                 <li><a href="#product">Product</a></li>
                 <li><a href="#pricing">Pricing</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
 		
         </header>
-         <h1> **** Laptop & Mobile 50% Off available till 31st March 2024 **** </h1>   
+         <h1> **** tv & washing machine 30% offer, hurryup **** </h1>   
 	 
 
     </section>    
-    <section id="about"><h1>This Is About</h1></section>
+    <section id="about Amazon"><h1>This Is About Amazon</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
     <section id="pricing"><h1>This Is Pricing</h1></section>
     <section id="contact"><h1>This Is Contact</h1></section>

@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">Flipkart shopping website</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">Amazon shopping website</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about Amazon">About Amazon</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** tv & washing machine 30% offer, hurryup **** </h1>   
+         <h1> **** no offers are available **** </h1>   
 	 
 
     </section>    
